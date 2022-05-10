@@ -1,4 +1,4 @@
-# Fech-Api-Clima
+# Fetch-Api-Clima
 
 * Html.
 * Css.
