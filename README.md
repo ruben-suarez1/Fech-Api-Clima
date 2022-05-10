@@ -1,5 +1,7 @@
 # Fetch-Api-Clima
 
+API buscador del clima y se agrega tu ciudad y país.
+
 * Html.
 * Css.
 * Tailwind.
